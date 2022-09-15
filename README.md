@@ -45,6 +45,13 @@ The following are the resources which i use and like the most.
 2. Ethical Hacking by Joseph Delgadillo : https://www.udemy.com/share/101qF6BEQdeFpQQHQ=/
 3. The Cyber Mentor's Course: https://www.udemy.com/course/practical-ethical-hacking/
 4. Tib3rius’s Privilege Escalation Courses for Win/Linux https://www.udemy.com/user/tib3rius/
+5. Information Gathering Fundamental Course : https://academy.virtualcyberlabs.com/s/store/courses/description/Information-Gathering-Fundamentals 
+6. Exploring Wide-Scope of MITRE ATT&CK: https://academy.virtualcyberlabs.com/s/store/courses/description/MITRE-ATTCK-For-Effective-Purple-Teaming 
+7. Intrusion Detection System Setup: https://academy.virtualcyberlabs.com/s/store/courses/description/Intrusion-Detection-System-vcl 
+8. Basics of Incident Response (Theory): https://academy.virtualcyberlabs.com/s/store/courses/description/Basics-of-Incident-Response
+9. Course on Session Management Vulnerability: https://academy.virtualcyberlabs.com/s/store/courses/description/Session-Management-Vulnerability
+8. Digital Forensic Fundamentals: https://academy.virtualcyberlabs.com/s/store/courses/description/Digital-Forensics-Fundamentals
+
 
 ### Practice Web Penetration Testing
 
