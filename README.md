@@ -100,6 +100,11 @@ The following are the resources which i use and like the most.
 
 ### Youtuber's to follow
 1. Ippsec: https://www.youtube.com/c/ippsec/videos
+2. BlackPerl: https://www.youtube.com/c/BlackPerl 
+3. OpenSecure: https://www.youtube.com/channel/UC4EUQtTxeC8wGrKRafI6pZg 
+4. BittenTech (For Hindi Content): https://www.youtube.com/c/BittenTech/videos
+5. NetworkChuck: https://www.youtube.com/c/NetworkChuck
+6. Farah Hawa: https://www.youtube.com/c/FarahHawa
 
 ## Learn Linux 
 
