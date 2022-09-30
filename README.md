@@ -76,6 +76,7 @@ The following are the resources which i use and like the most.
 ### One Liner Collections
 1. https://github.com/dwisiswant0/awesome-oneliner-bugbounty
 2. https://github.com/OfJAAH/KingOfBugBountyTips
+3. https://github.com/meirwah/awesome-incident-response
 
 ### Awesome Bug Bounty Writeups
 1. Business Logic Vulns : https://medium.com/bugbountywriteup/all-about-business-logic-flaws-in-web-applications-577d9d80bc33
