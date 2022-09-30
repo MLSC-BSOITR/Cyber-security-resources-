@@ -84,6 +84,7 @@ The following are the resources which i use and like the most.
 3. JavaScript Recon : https://gist.github.com/m4ll0k/31ce0505270e0a022410a50c8b6311ff
 4. Github For Bug Bounty Hunters : https://gist.github.com/EdOverflow/922549f610b258f459b219a32f92d10b
 5. Windows/Linux Privilege Escaltion : https://github.com/sagishahar/lpeworkshop
+6. Incident Response: https://github.com/meirwah/awesome-incident-response
 
 ## CTF's
 1. CTFLearn : https://ctflearn.com
