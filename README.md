@@ -106,7 +106,7 @@ The following are the resources which i use and like the most.
 4. BittenTech (For Hindi Content): https://www.youtube.com/c/BittenTech/videos
 5. NetworkChuck: https://www.youtube.com/c/NetworkChuck
 6. Farah Hawa: https://www.youtube.com/c/FarahHawa
-
+7. The Cyber Mentor: https://www.youtube.com/c/TheCyberMentor
 ## Learn Linux 
 
 ### Online Resources
